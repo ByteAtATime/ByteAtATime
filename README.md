@@ -7,7 +7,7 @@ I'm a middle school student developer that loves web development.
 
 - 👨‍💻 All of my projects are available at: [**https://github.com/PlanexDev**](https://github.com/PlanexDev)
 
-- 💬 Ask me about: **ReactJS, Web**
+- 💬 Ask me about: **SvelteJS, Web, Responsive Design**
 
 - 📫 Email me at: **planexdev@gmail.com**
 
