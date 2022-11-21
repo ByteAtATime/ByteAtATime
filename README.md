@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm PlanexDev</h1>
+<h1 align="center">Hi 👋, I'm DaTypicalAsian</h1>
 I'm a middle school student developer that loves web development.
 
 &nbsp;
 
-- 🔭 I'm currently working on: [**My Personal Website**](https://github.com/PlanexDev/planexdev.github.io)
+- 🔭 I'm currently working on: **My Personal Website**
 
-- 👨‍💻 All of my projects are available at: [**https://github.com/PlanexDev**](https://github.com/PlanexDev)
+- 👨‍💻 All of my projects are available at: [**https://github.com/DaTypicalAsian**](https://github.com/DaTypicalAsian)
 
 - 💬 Ask me about: **SvelteJS, Web, Responsive Design**
 
-- 📫 Email me at: **planexdev@gmail.com**
+- 📫 Email me at: **DaTypicalAsian@gmail.com**
 
 ## Tools:
 ### Programming Langauges:
@@ -29,7 +29,7 @@ I'm a middle school student developer that loves web development.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Programming Langauges:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlanexDev&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaTypicalAsian&langs_count=5)
 
 ## GitHub Stats:
-![PlanexDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlanexDev&show_icons=true&theme=radical)
+![DaTypicalAsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaTypicalAsian&show_icons=true&theme=radical)
