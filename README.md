@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm DaTypicalAsian</h1>
-I'm a middle school student developer that loves web development.
+<h1 align="center">Hi 👋, I'm CyberGPU</h1>
+I'm a student developer that loves hardware (custom computers) and web development.
 
 &nbsp;
 
 - 🔭 I'm currently working on: **My Personal Website**
 
-- 👨‍💻 All of my projects are available at: [**https://github.com/DaTypicalAsian**](https://github.com/DaTypicalAsian)
+- 👨‍💻 All of my projects are available at: [**https://github.com/CyberGPU**](https://github.com/CyberGPU)
 
 - 💬 Ask me about: **SvelteJS, Web, Responsive Design**
 
-- 📫 Email me at: **DaTypicalAsian@gmail.com**
+- 📫 Email me at: **CyberGPU@onmail.com**
 
 ## Tools:
 ### Programming Langauges:
@@ -29,7 +29,7 @@ I'm a middle school student developer that loves web development.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Programming Langauges:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaTypicalAsian&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGPU&langs_count=5)
 
 ## GitHub Stats:
-![DaTypicalAsian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaTypicalAsian&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberGPU&show_icons=true&theme=radical)
