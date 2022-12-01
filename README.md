@@ -29,7 +29,7 @@ I'm a student developer that loves hardware (custom computers) and web developme
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Programming Langauges:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGPU&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteAtATime&langs_count=5)
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberGPU&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteAtATime&show_icons=true&theme=radical)
