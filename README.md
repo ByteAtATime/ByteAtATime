@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm CyberGPU</h1>
+<h1 align="center">Hi 👋, I'm ByteAtATime</h1>
 I'm a student developer that loves hardware (custom computers) and web development.
 
 &nbsp;
 
 - 🔭 I'm currently working on: **My Personal Website**
 
-- 👨‍💻 All of my projects are available at: [**https://github.com/CyberGPU**](https://github.com/CyberGPU)
+- 👨‍💻 All of my projects are available at: [**https://github.com/ByteAtATime**](https://github.com/ByteAtATime)
 
 - 💬 Ask me about: **SvelteJS, Web, Responsive Design**
 
-- 📫 Email me at: **CyberGPU@onmail.com**
+- 📫 Email me at: **ByteAtATime@proton.me**
 
 ## Tools:
 ### Programming Langauges:
